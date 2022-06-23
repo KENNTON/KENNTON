@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @KENNTON
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-KENNTON/KENNTON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @KENNTON a software engineer
+- 👀 I’m interested in bulding the software to bring solutions.
+- 🌱 I’m currently learning how to code
+- 💞️ I’m looking to collaborate on github for learning.
+- 📫 How to reach me is @kentonuver@gmail.com
